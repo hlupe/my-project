@@ -1,0 +1,5 @@
+* commit fd393c4ba55fa0908f815197eea64814b29de9ec
+  Author: bed-com-46-24 <bed-com-46-24@unima.ac.mw>
+  Date:   Fri Mar 6 09:26:24 2026 +0200
+  
+      Initial commit: add homepage HTML structure
